@@ -9,7 +9,7 @@ You are required to prepare a 600-word report on:
 
 **a)**    **The external/macro – environment**
 
-In this section, using PESTEL analysis, selectz and analyse **one factor** in the macro environment that might significantly influence their decision to set up this new business venture.
+In this section, using PESTEL analysis, selects and analyse **one factor** in the macro environment that might significantly influence their decision to set up this new business venture.
 
 Explain/justify why you have selected this **one factor** and the implications.
 
