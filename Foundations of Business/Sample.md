@@ -20,7 +20,7 @@ This report will explore and consider the future potential of establishing a bic
 	-  The PBSR apply to those who sell new bikes, and ensure that new bicycles are safe when sold.
 	- Not may important laws / regulations when it comes to running a bike store
 - Environments
-	- 
+	- Doesn't reallu h
 ##### Porter's Five Forces Analysis
 
 ##### Conclution
