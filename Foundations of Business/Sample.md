@@ -16,6 +16,7 @@ This report will explore and consider the future potential of establishing a bic
 -  Technological
 	- Electric bikes are still unaffordable for most consumers
 	- No new tech would replace bikes they have been around for a long time
+- 
 
 ##### Porter's Five Forces Analysis
 
