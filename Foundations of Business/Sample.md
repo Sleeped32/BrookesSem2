@@ -23,7 +23,7 @@ This report will explore and consider the future potential of establishing a bic
 	- Doesn't really effect the demand for bikes 
 	- Climate change could mean that more people would want to ride bikes if its warmer outside, effect would be negotiable at best
 ##### Porter's Five Forces Analysis
-Porter's five forces model gives a framework to understand the completive forces within an industry. Also, the model evaluates the effect of the forces and how they can 
+Porter's five forces model gives a framework to understand the completive forces within an industry. Also, the model evaluates the effect of the forces and how they can change the division of economic value among industries
 
 
 
