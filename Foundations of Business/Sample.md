@@ -6,6 +6,8 @@ This report will explore and consider the future potential of establishing a bic
 ##### PESTEL Analysis
 - Socio-cultural 
 	- Consumer preferences leaning towards more green/ eco friendly option 
+	- Choosing Bikes over cars
+	- Especially in Oxford  
 
 
 ##### Porter's Five Forces Analysis
