@@ -9,7 +9,7 @@ This report will explore and consider the future potential of establishing a bic
 	- Choosing Bikes over cars
 	- Especially in Oxford not great for cars
 	- Consumers more health concession bike good exercise
-
+Political tensentions are high all over the world 
 
 ##### Porter's Five Forces Analysis
 
