@@ -18,8 +18,9 @@ This report will explore and consider the future potential of establishing a bic
 	- No new tech would replace bikes they have been around for a long time
 -  legal
 	-  The PBSR apply to those who sell new bikes, and ensure that new bicycles are safe when sold.
-	- Not may important laws / regulations when it comes to running a bike
-
+	- Not may important laws / regulations when it comes to running a bike store
+- Environments
+	- 
 ##### Porter's Five Forces Analysis
 
 ##### Conclution
