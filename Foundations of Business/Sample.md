@@ -12,6 +12,8 @@ This report will explore and consider the future potential of establishing a bic
 - Political and Economic tensions are high all over the world at the moment .
 	- The effect this would have on a bike repair shop would be negligible.
 	- The shop wouldn't be exporting bikes to all over the world
+	- Importing bikes could become more expensive 
+-  Technclogical 
 
 ##### Porter's Five Forces Analysis
 
