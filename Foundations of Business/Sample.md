@@ -2,7 +2,7 @@
 You are required to prepare a 600-word report on:
 
 ##### Introduction
-This report will explore an
+This report will explore and consider the future potential of establishing a bicycle repair shop in Oxfordshire
 ##### PESTEL Analysis
 
 ##### Porter's Five Forces Analysis
