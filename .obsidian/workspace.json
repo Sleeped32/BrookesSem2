@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction to Accounting 2/Formulae.md",
+                "file": "Foundations of Business/Sample.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Formulae"
+              "title": "Sample"
             }
           }
         ]
@@ -179,6 +179,7 @@
   "active": "b43862c479985cf4",
   "lastOpenFiles": [
     "Foundations of Business/Assessment.md",
+    "Foundations of Business/Sample.md",
     "Introduction to Accounting 2/Formulae.md",
     "Introduction to Accounting 2/Week 2 HomeWork.md",
     "Introduction to Accounting 2/Week 1 homework.md",
