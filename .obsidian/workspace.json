@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Foundations of Business/Sample.md",
+                "file": "Foundations of Business/Soruces.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sample"
+              "title": "Soruces"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a6071ae65a55a143",
@@ -179,9 +178,9 @@
   },
   "active": "b43862c479985cf4",
   "lastOpenFiles": [
+    "Foundations of Business/Sample.md",
     "Foundations of Business/Soruces.md",
     "Pasted image 20250219171202.png",
-    "Foundations of Business/Sample.md",
     "Foundations of Business/Assessment.md",
     "Introduction to Accounting 2/Formulae.md",
     "Introduction to Accounting 2/Week 2 HomeWork.md",
