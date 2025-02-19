@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Foundations of Business/Soruces.md",
+                "file": "Foundations of Business/Sample.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Soruces"
+              "title": "Sample"
             }
           }
         ]
@@ -178,8 +178,8 @@
   },
   "active": "b43862c479985cf4",
   "lastOpenFiles": [
-    "Foundations of Business/Sample.md",
     "Foundations of Business/Soruces.md",
+    "Foundations of Business/Sample.md",
     "Pasted image 20250219171202.png",
     "Foundations of Business/Assessment.md",
     "Introduction to Accounting 2/Formulae.md",
