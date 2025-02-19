@@ -7,7 +7,8 @@ This report will explore and consider the future potential of establishing a bic
 - Socio-cultural 
 	- Consumer preferences leaning towards more green/ eco friendly option 
 	- Choosing Bikes over cars
-	- Especially in Oxford  
+	- Especially in Oxford not great for cars
+	- 
 
 
 ##### Porter's Five Forces Analysis
