@@ -14,7 +14,8 @@ This report will explore and consider the future potential of establishing a bic
 	- The shop wouldn't be exporting bikes to all over the world
 	- Importing bikes could become more expensive 
 -  Technological
-	- Electric bikes are still unaffordable for most 
+	- Electric bikes are still unaffordable for most consumers
+	- No new tech would replace bikes they have been around for a long time
 
 ##### Porter's Five Forces Analysis
 
