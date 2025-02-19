@@ -28,5 +28,5 @@ Porter's five forces model gives a framework to understand the completive forces
 
 The industry H&M are pursing is the cycling industry
 
-##### Conclution
+##### Conclusion
 5
