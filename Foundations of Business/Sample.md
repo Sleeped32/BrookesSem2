@@ -13,7 +13,8 @@ This report will explore and consider the future potential of establishing a bic
 	- The effect this would have on a bike repair shop would be negligible.
 	- The shop wouldn't be exporting bikes to all over the world
 	- Importing bikes could become more expensive 
--  Technclogical 
+-  Technological
+	- Electric bikes are more ex 
 
 ##### Porter's Five Forces Analysis
 
