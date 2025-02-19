@@ -25,7 +25,7 @@ This report will explore and consider the future potential of establishing a bic
 ##### Porter's Five Forces Analysis
 Porter's five forces model gives a framework to understand the completive forces within an industry. Also, the model evaluates the effect of the forces and how they can change the division of economic value among industries
 
-The industry H&M are pu
+The industry H&M are pursing is the cycling industry
 
 ##### Conclution
 5
