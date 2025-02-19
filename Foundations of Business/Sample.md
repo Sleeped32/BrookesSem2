@@ -21,7 +21,7 @@ This report will explore and consider the future potential of establishing a bic
 	- Not may important laws / regulations when it comes to running a bike store
 - Environments
 	- Doesn't really effect the demand for bikes 
-	- Climate change could mean that more people would want to ride bikes if its warmer outside 
+	- Climate change could mean that more people would want to ride bikes if its warmer outside, effect would be negotiable at best
 ##### Porter's Five Forces Analysis
 
 ##### Conclution
