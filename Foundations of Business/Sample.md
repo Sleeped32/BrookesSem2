@@ -8,7 +8,7 @@ This report will explore and consider the future potential of establishing a bic
 	- Consumer preferences leaning towards more green/ eco friendly option 
 	- Choosing Bikes over cars
 	- Especially in Oxford not great for cars
-	- Consumers more health concession bike good
+	- Consumers more health concession bike good exercise
 
 
 ##### Porter's Five Forces Analysis
