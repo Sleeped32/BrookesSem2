@@ -10,7 +10,8 @@ This report will explore and consider the future potential of establishing a bic
 	- Especially in Oxford not great for cars
 	- Consumers more health concession bike good exercise
 - Political and Economic tensions are high all over the world at the moment .
-The effect this would have on a bike repair shop would be negligible.
+	- The effect this would have on a bike repair shop would be negligible.
+	- The shop wouldn't be exporting bikes to all over the world
 
 ##### Porter's Five Forces Analysis
 
