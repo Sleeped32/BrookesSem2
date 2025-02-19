@@ -16,8 +16,9 @@ This report will explore and consider the future potential of establishing a bic
 -  Technological
 	- Electric bikes are still unaffordable for most consumers
 	- No new tech would replace bikes they have been around for a long time
--  legeal
-	- 
+-  legal
+	-  The PBSR apply to those who sell new bikes, and ensure that new bicycles are safe when sold.
+	- Not may important laws / regulations when it comes to running a bike
 
 ##### Porter's Five Forces Analysis
 
