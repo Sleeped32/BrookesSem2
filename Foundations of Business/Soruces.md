@@ -20,4 +20,5 @@ With easing financial pressures, we expect modest volume growth in 2025, picking
 #### Future (2027-29): maintaining momentum
 
 Long-term growth in participation will come from improvements in cycling infrastructure and attracting more people who don't see themselves as 'cyclists' but 'people who cycle'. A key way of doing this is through growing e-bike ownership, encouraging people to see them as an alternative to second cars.
+- ![[Pasted image 20250222172724.png]]
 - 
