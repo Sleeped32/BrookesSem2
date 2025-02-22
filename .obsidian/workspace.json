@@ -55,8 +55,7 @@
               "title": "Untitled"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,10 +210,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b43862c479985cf4",
+  "active": "6bb0c29435c81613",
   "lastOpenFiles": [
-    "Untitled.md",
     "Foundations of Business/Sample.md",
+    "Untitled.md",
     "Foundations of Business/Soruces.md",
     "Pasted image 20250222172905.png",
     "Pasted image 20250222172724.png",
