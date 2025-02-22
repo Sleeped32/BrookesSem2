@@ -28,7 +28,7 @@ Porter's five forces model gives a framework to understand the completive forces
 
 The industry H&M are pursing is the cycling industry
 	The threat of new entry is moderate due to the increase amount of riders thus an increase in demand for bikes leading to more firms entering the industry. It is unlikely that new entrants would be able compete with the established and larger firms. Also the market is preditiected to keep growing which would ease rivalry in the market. 
-	Threat of subutiton is high due to the high cost of living leading to households having less disponible income to spend on 
+	Threat of subutiton is high due to the high cost of living leading to households having less disponible income to spend on a luxury good like a bike.  
 	
 	
 	There is also a moderate force due of rivalry with large retailers having a large amount of the industry. Even with the bigger companies like Amazon buying second hand from private sellers is still very populator 
