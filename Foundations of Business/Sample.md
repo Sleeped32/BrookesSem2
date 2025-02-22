@@ -32,4 +32,4 @@ The industry H&M are pursing is the cycling industry
 	For H&M to counter this force they would focus on their repair side of the business since consumers are more likely to repair their bike than buy a new one. Also they should make sure to sell affordable and used bikes since more people would be able  to afford it
 	
 ##### Conclusion
-This industry is a feasible option for new venture as there are gaps in the market for used bikes which consumers have shown to be interested in. On the other hand if the economy 
+This industry is a feasible option for new venture as there are gaps in the market for used bikes which consumers have shown to be interested in. On the other hand if the economy doesnt improve it could be hard for them to be able to compete in a industry with estabished compition

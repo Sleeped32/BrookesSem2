@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "985ee6785a6dfec3",
+        "id": "2ceb16ca4cc6013c",
         "type": "tabs",
         "children": [
           {
@@ -20,7 +20,13 @@
               "icon": "lucide-file",
               "title": "Sample"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "985ee6785a6dfec3",
+        "type": "tabs",
+        "children": [
           {
             "id": "6bb0c29435c81613",
             "type": "leaf",
