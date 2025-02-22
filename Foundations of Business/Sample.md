@@ -11,7 +11,7 @@ Technological development could help the business due to the popularity of e-bik
 Porter's five forces model gives a framework to understand the completive forces within an industry. Also, the model evaluates the effect of the forces and how they can change the division of economic value among industries
 
 The industry H&M are pursing is the cycling industry
-	The threat of new entry is moderate due to the increase amount of riders thus an increase in demand for bikes leading to more firms entering the industry. It is unlikely that new entrants would be able compete with the established and larger firms. Also the market is predicated to keep growing which would ease rivalry in the market. 
+	The threat of new entry is moderate due to the increase amount of riders thus an increase in demand for bikes leading to more firms entering the industry. It would be hard for the new entrants to be able to compete with the established and larger firms. Although, the market is predicated to keep growing which would ease rivalry in the market. 
 	Threat of subaudition is high due to the high cost of living leading to households having less disponible income to spend on a luxury good like a bike. Even though there is an increase in interest in cycling from consumers it doesn't mean that they would have to able to spend a large amount of money on a bike. Consumer's optimism about the economic states of the country is lower than last year
 	For H&M to counter this force they would focus on their repair side of the business since consumers would be more likely to want to repair their bike than buy a new one due to the high cost. Also they should make sure to sell affordable and used bikes since more people would be able  to afford it
 	
