@@ -5,7 +5,7 @@ You are required to prepare a 600-word report on:
 This report will explore and consider the future potential of establishing a bicycle repair shop in Oxfordshire with their £20,000 in starting capital. Also, this report will show the implications of the external and industry environment. This will be done using PESTEL Analysis and Porter's Five Forces Analysis. 
 ##### PESTEL Analysis
 Political and economic factors are important the infulunce to business outcomes would be negatable and uncontrollable. Legally the barriers to entry are low and would have a small if any influence on business outcomes. 
-Technological development could help the business due to the popularity of e-bikes but due to the high costs the demand is still not as high as regulator pedal bikes. future development could lead to the price of e-bike decrease but there is still some time before than. Socio-cultural factors would have the most influence due to how we as a sociality are trying to be more eco friendly in how we live our life's. Socility consumers are becoming more health consession which is why th
+Technological development could help the business due to the popularity of e-bikes but due to the high costs the demand is still not as high as regulator pedal bikes. future development could lead to the price of e-bike decrease but there is still some time before than. Socio-cultural factors would have the most influence due to how we as a sociality are trying to be more eco friendly in how we live our life's. Socility consumers are becoming more health consession which is why there is increasing amount of people riding bikes to work and for otehr things becuase it's a good forum of exercise
 
 
 
