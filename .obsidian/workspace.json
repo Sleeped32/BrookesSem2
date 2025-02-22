@@ -42,20 +42,21 @@
             }
           },
           {
-            "id": "350fcfc295a201cc",
+            "id": "20e10fab0c6f2916",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Foundations of Business/Soruces.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Soruces"
+              "title": "Untitled"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -212,8 +213,9 @@
   },
   "active": "b43862c479985cf4",
   "lastOpenFiles": [
-    "Foundations of Business/Soruces.md",
+    "Untitled.md",
     "Foundations of Business/Sample.md",
+    "Foundations of Business/Soruces.md",
     "Pasted image 20250222172905.png",
     "Pasted image 20250222172724.png",
     "Foundations of Business/Assessment.md",
@@ -223,7 +225,6 @@
     "Introduction to Accounting 2/Week 1 homework.md",
     "Examined Modules.md",
     "Exploring Economics/Seminar Week 2.md",
-    "Untitled.md",
     "Exploring Economics/Lecture Week 1.md",
     "Business Accounting/Lecture Week 2.md",
     "Untitled.canvas",
