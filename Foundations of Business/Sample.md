@@ -27,7 +27,7 @@ PESTEL analysis identifies external factors that could influence business outcom
 Porter's five forces model gives a framework to understand the completive forces within an industry. Also, the model evaluates the effect of the forces and how they can change the division of economic value among industries
 
 The industry H&M are pursing is the cycling industry
-	The threat of new entry is moderate due to the increase amount of riders thus an increase in demand for bikes leading to more firms entering the industry. It is unlikely that new entrants would be able competite with 
+	The threat of new entry is moderate due to the increase amount of riders thus an increase in demand for bikes leading to more firms entering the industry. It is unlikely that new entrants would be able compete with the established and larger firms.
 	
 	
 	There is also a moderate force due of rivalry with large retailers having a large amount of the industry. Even with the bigger companies like Amazon buying second hand from private sellers is still very populator 
