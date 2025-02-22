@@ -25,12 +25,14 @@
             "id": "6bb0c29435c81613",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.7"
+                "file": "Foundations of Business/Soruces.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.7"
+              "icon": "lucide-file",
+              "title": "Soruces"
             }
           },
           {
@@ -205,10 +207,10 @@
   },
   "active": "6bb0c29435c81613",
   "lastOpenFiles": [
-    "Foundations of Business/Soruces.md",
-    "Foundations of Business/Sample.md",
-    "Pasted image 20250219171202.png",
     "Foundations of Business/Assessment.md",
+    "Foundations of Business/Sample.md",
+    "Foundations of Business/Soruces.md",
+    "Pasted image 20250219171202.png",
     "Introduction to Accounting 2/Formulae.md",
     "Introduction to Accounting 2/Week 2 HomeWork.md",
     "Introduction to Accounting 2/Week 1 homework.md",
