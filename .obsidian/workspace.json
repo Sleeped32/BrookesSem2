@@ -48,6 +48,16 @@
               "icon": "lucide-file",
               "title": "Untitled"
             }
+          },
+          {
+            "id": "f8a922da5329ad16",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ]
       }
@@ -206,9 +216,9 @@
   },
   "active": "6bb0c29435c81613",
   "lastOpenFiles": [
-    "Foundations of Business/Soruces.md",
-    "Business Accounting/Group Work.md",
     "Foundations of Business/Sample.md",
+    "Business Accounting/Group Work.md",
+    "Foundations of Business/Soruces.md",
     "Untitled.md",
     "Pasted image 20250222172905.png",
     "Pasted image 20250222172724.png",
