@@ -1,9 +1,11 @@
 
-### Assessment Instructions - 7th March 1pm
+### Assessment Instructions - 
+
+7th March 1pm
 
 In Week 1 each group will be allocated 2 accounting systems to study. As a group, you should research these and prepare a group report about them (**1,000 words**, worth 20% of module marks). *The report should answer the following questions:* 
 
-**•  What accounting functions are supported by the systems you have researched?**
+**• What accounting functions are supported by the systems you have researched?**
 **• What type of organisations – and users – are they aimed at?**
 **• What other systems (e.g., payroll) are the system designed to integrate with?**
 **• What technology options are available in each case (e.g., hosted, shrink-wrapped)?**
