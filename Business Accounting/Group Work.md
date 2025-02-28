@@ -1,7 +1,8 @@
 
 ### Assessment Instructions - 
 
-7th March 1pm
+###### Deadline: 7th March 1pm
+
 
 In Week 1 each group will be allocated 2 accounting systems to study. As a group, you should research these and prepare a group report about them (**1,000 words**, worth 20% of module marks). *The report should answer the following questions:* 
 
