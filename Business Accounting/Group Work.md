@@ -17,12 +17,12 @@ The report should include an introduction, and provide examples and illustration
 
 ##### Formatting
 
-The authentic and essential requirements for this piece of assessed work are as follows: Your assignment(s) must be presented in the following format: 
+The authentic and essential requirements for this piece of assessed work are as follows: **Your assignment(s) must be presented in the following format**: 
 
-❑ It must be word-processed in 11 point Arial font and double-spaced.
-❑ All pages must be numbered.
-❑ Margins must be as follows: Top: 1 inch, Bottom: 1 inch (2.5 cm), Left: 1.25 inches, Right: 1.25 inches (3.2 cm). 
-❑ It should not contain your name(s) or student number(s)
+❑ It must be word-processed in *11 point Arial font* and *double-spaced*.
+❑ *All pages must be numbered*.
+❑ **Margins** must be as follows: *Top: 1 inch, Bottom: 1 inch (2.5 cm), Left: 1.25 inches, Right: 1.25 inches (3.2 cm).* 
+❑ It should **not** contain your name(s) or student number(s)
 #### Introduction
 This report will explore 2 different account systems, Myob Essentials and tradify. This report will focus on what accounting functions are supported, what the target demographic is, integrations with other systems, technology options that are available, quality of system claimed by vendors, and the pro's and con's of Myob Essentials and tradify. 
 
