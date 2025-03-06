@@ -59,7 +59,8 @@
               "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -214,10 +215,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6bb0c29435c81613",
+  "active": "b43862c479985cf4",
   "lastOpenFiles": [
-    "Foundations of Business/Sample.md",
     "Business Accounting/Group Work.md",
+    "Business Accounting/Lecture Week 2.md",
+    "Foundations of Business/Sample.md",
     "Foundations of Business/Soruces.md",
     "Untitled.md",
     "Pasted image 20250222172905.png",
@@ -230,7 +232,6 @@
     "Examined Modules.md",
     "Exploring Economics/Seminar Week 2.md",
     "Exploring Economics/Lecture Week 1.md",
-    "Business Accounting/Lecture Week 2.md",
     "Untitled.canvas",
     "Exploring Economics/Untitled",
     "Welcome.md",
