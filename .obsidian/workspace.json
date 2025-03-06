@@ -59,8 +59,7 @@
               "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -215,13 +214,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "124d599670f9de0e",
+  "active": "6bb0c29435c81613",
   "lastOpenFiles": [
+    "Foundations of Business/Soruces.md",
     "Foundations of Business/Assessment.md",
     "Foundations of Business/Sample.md",
     "Business Accounting/Group Work.md",
     "Business Accounting/Lecture Week 2.md",
-    "Foundations of Business/Soruces.md",
     "Untitled.md",
     "Pasted image 20250222172905.png",
     "Pasted image 20250222172724.png",
