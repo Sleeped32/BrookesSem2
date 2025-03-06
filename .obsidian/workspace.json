@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -216,10 +216,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b43862c479985cf4",
+  "active": "20e10fab0c6f2916",
   "lastOpenFiles": [
-    "Foundations of Business/Sample.md",
     "Foundations of Business/Soruces.md",
+    "Foundations of Business/Sample.md",
     "Untitled.md",
     "Business Accounting/Group Work.md",
     "Foundations of Business/Assessment.md",
