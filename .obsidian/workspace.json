@@ -50,6 +50,18 @@
             }
           },
           {
+            "id": "578497e15364afd8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
+          },
+          {
             "id": "f8a922da5329ad16",
             "type": "leaf",
             "state": {
@@ -60,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -216,7 +228,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "20e10fab0c6f2916",
+  "active": "578497e15364afd8",
   "lastOpenFiles": [
     "Foundations of Business/Soruces.md",
     "Foundations of Business/Sample.md",
