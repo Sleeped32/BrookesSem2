@@ -62,4 +62,4 @@ Judging from its features, integrations, and user interface, Microsoft Dynamics 
 
 - Easy to set-up
 - User friendly designed for non-IT and non-accountant backgrounds
-- $630 
+- One-time cost of USD 630 for a Single-User License and USD 1,890 for a Multi-User License. From the second year onwards, you need to renew TSS to avail host of value-added services.
