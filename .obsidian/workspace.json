@@ -11,12 +11,14 @@
             "id": "6bb0c29435c81613",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Business Accounting/Ass 2/ACFI4012 BAS Module Handbook 2024-25 S1.pdf"
+                "file": "Business Accounting/Ass 2/Instruc.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "ACFI4012 BAS Module Handbook 2024-25 S1"
+              "icon": "lucide-file",
+              "title": "Instruc"
             }
           },
           {
@@ -226,6 +228,8 @@
   },
   "active": "6bb0c29435c81613",
   "lastOpenFiles": [
+    "Business Accounting/Ass 2/ACFI4012 BAS Module Handbook 2024-25 S1.pdf",
+    "Business Accounting/Ass 2/Instruc.md",
     "Business Accounting/Ass 2/Research.md",
     "Business Accounting/Ass 2/Examples/Yellow1.pdf",
     "Business Accounting/Ass 2/Examples/Blue1.pdf",
@@ -233,7 +237,6 @@
     "Business Accounting/Ass 2/Examples/Orange1.pdf",
     "Business Accounting/Ass 2/Examples/Pink1.pdf",
     "Business Accounting/Ass 2/Examples/Red1.pdf",
-    "Business Accounting/Ass 2/ACFI4012 BAS Module Handbook 2024-25 S1.pdf",
     "Business Accounting/Ass 2/Examples",
     "Pasted image 20250408141849.png",
     "Business Accounting/Group Work.md",
