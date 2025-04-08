@@ -19,6 +19,7 @@ Cloud-based
 ERP(Enterprise Resources planning)
 lots of integration with Microsoft ecosystem
 Targeted at SMEs(Small and Medium-sized Enterprise)
+[[business-central-capability-guide-for-publishing.pdf | Overview p.4]]
 
 
 
@@ -27,8 +28,6 @@ Targeted at SMEs(Small and Medium-sized Enterprise)
 
 
 
-
-###### Ref
 
 
 
