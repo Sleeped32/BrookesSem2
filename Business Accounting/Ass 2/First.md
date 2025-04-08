@@ -4,13 +4,13 @@ Enterprise Resource Planning (ERP) systems play a crucial role in streamlining b
 
 ### **Usability and User Experience**
 
-TallyPrime stands out for its simplicity and ease of use, especially for users with little to no background in IT or accounting. Designed with keyboard navigation and clear menu flows, it enables quick adoption for small business users. Reviews frequently highlight its intuitive interface and minimal training requirements (Tally Solutions, 2024).
+TallyPrime stands out for its simplicity and ease of use, especially for users with little to no background in IT or accounting. Designed with keyboard navigation and clear menu flows, it enables quick adoption for small business users. Reviews frequently highlight its intuitive interface and minimal training requirements (Tally Solutions, 2024; The CFO Club, 2023b).
 
 In contrast, Dynamics 365 Business Central offers a more modern, cloud-based interface but presents a steeper learning curve. While this system is optimized for users already familiar with Microsoft products, it often requires initial training, particularly for non-technical users. That said, once integrated, its interface consistency across Outlook, Excel, and Teams can significantly improve workflow efficiency (The CFO Club, 2023).
 
 ### **Functionality and Scope**
 
-TallyPrime’s core strength lies in financial management, particularly tax compliance, inventory tracking, and reporting. It automates complex processes like GST filing and e-way bill generation, making it a reliable and cost-effective solution for small to mid-sized businesses, especially in India (Tally Solutions, 2024).
+TallyPrime’s core strength lies in financial management, particularly tax compliance, inventory tracking, and reporting. It automates complex processes like GST filing and e-way bill generation, making it a reliable and cost-effective solution for small to mid-sized businesses, especially in India (Tally Solutions, 2024; The CFO Club, 2023b).
 
 On the other hand, Business Central is a more comprehensive ERP solution encompassing operations, CRM, supply chain, and finance. A Forrester study shows that organizations using Business Central experienced a measurable improvement in productivity through automation and task consolidation (Forrester, 2023). Integrations such as online payments, document signatures, and CRM tools reduce the need for multiple systems and enhance cross-departmental visibility.
 
@@ -27,7 +27,6 @@ TallyPrime offers a one-time purchase model, which is attractive for cost-consci
 ---
 
 ### **References**
-
 - Forrester (2023) _The Total Economic Impact™ Of Microsoft Dynamics 365 Business Central_. [online] Available at: [https://tei.forrester.com/go/Microsoft/Dynamics365BusinessCentral/?lang=en-us](https://tei.forrester.com/go/Microsoft/Dynamics365BusinessCentral/?lang=en-us) [Accessed 8 Apr. 2025].
     
 - Tally Solutions (2024) _TallyPrime Features_. [online] Available at: [https://tallysolutions.com/tally-prime/](https://tallysolutions.com/tally-prime/) [Accessed 8 Apr. 2025].
@@ -38,4 +37,6 @@ TallyPrime offers a one-time purchase model, which is attractive for cost-consci
     
 - The 365 People (2024b) _Business Central Overview_. [online] Available at: [https://www.the365people.com/business-central](https://www.the365people.com/business-central) [Accessed 8 Apr. 2025].
     
-- The CFO Club (2023) _Microsoft Dynamics 365 Business Central Review_. [online] Available at: [https://thecfoclub.com/tools/microsoft-dynamics-365-business-central-review/](https://thecfoclub.com/tools/microsoft-dynamics-365-business-central-review/) [Accessed 8 Apr. 2025].
+- The CFO Club (2023a) _Microsoft Dynamics 365 Business Central Review_. [online] Available at: [https://thecfoclub.com/tools/microsoft-dynamics-365-business-central-review/](https://thecfoclub.com/tools/microsoft-dynamics-365-business-central-review/) [Accessed 8 Apr. 2025].
+    
+- The CFO Club (2023b) _TallyPrime Review_. [online] Available at: [https://thecfoclub.com/tools/tallyprime-review/](https://thecfoclub.com/tools/tallyprime-review/) [Accessed 8 Apr. 2025].
