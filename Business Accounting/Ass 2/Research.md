@@ -14,6 +14,8 @@ Evidence and data. Interviewees said deploying Business Central allowed their o
 
 ## Structure 
 
+#### 1
+Cloud-based
 
 
 
