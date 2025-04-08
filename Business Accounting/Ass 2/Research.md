@@ -61,4 +61,5 @@ Judging from its features, integrations, and user interface, Microsoft Dynamics 
 # TallyPrime
 
 - Easy to set-up
-- User friendly 
+- User friendly designed for non-IT and non-accountant backgrounds
+- $630 
