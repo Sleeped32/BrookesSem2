@@ -69,7 +69,8 @@
               "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -225,12 +226,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6bb0c29435c81613",
+  "active": "20e10fab0c6f2916",
   "lastOpenFiles": [
+    "Business Accounting/Ass 2/Instruc.md",
     "Business Accounting/Ass 2/Research.md",
     "Foundations of Business/Sample.md",
     "Business Accounting/Ass 2/ACFI4012 BAS Module Handbook 2024-25 S1.pdf",
-    "Business Accounting/Ass 2/Instruc.md",
     "Business Accounting/Ass 2/business-central-capability-guide-for-publishing.pdf",
     "Foundations of Business/Soruces.md",
     "Business Accounting/Ass 2/Examples/Yellow1.pdf",
