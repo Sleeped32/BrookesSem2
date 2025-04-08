@@ -1,8 +1,8 @@
 
 # Microsoft Dynamics 365 Business Central
 
-**Microsoft surveyed their customers on their struggles with common challenges:**
-	
+**Analysis of Benefits:**
+
 
 
 
