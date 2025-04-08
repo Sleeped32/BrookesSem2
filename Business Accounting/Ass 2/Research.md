@@ -1,7 +1,8 @@
 
 # Microsoft Dynamics 365 Business Central
 
-Microsoft surveyed 
+Microsoft surveyed their customers on their 
+
 
 
 ###### Ref
