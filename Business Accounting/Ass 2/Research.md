@@ -12,10 +12,6 @@ Evidence and data. Interviewees said deploying Business Central allowed their o
 ##### **Ref ([Mic](https://tei.forrester.com/go/Microsoft/Dynamics365BusinessCentral/?lang=en-us))**
 
 
-## Structure 
-
-#### Compare
-
 **Microsoft:**
 - Cloud-based
 - ERP(Enterprise Resources planning)
@@ -24,7 +20,7 @@ Evidence and data. Interviewees said deploying Business Central allowed their o
 - Microsoft Co-pilot AI
 - ([[business-central-capability-guide-for-publishing.pdf | Overview p.4-5]])
 
-Dynamics 365 Business Central can revolutionise how you do business, taking streamlining, automation and customer engagement to a new level. It gives you a single, end-to end solution for managing finances, operations, sales and customer service, and an opportunity to easily upgrade from entry-level accounting software and legacy [ERP systems](https://www.the365people.com/enterprise-resource-planning "ERP systems").
+Dynamics 365 Business Central can revolutionise how you do business, taking streamlining, automation and customer engagement to a new level. It gives you a single, end-to end solution for managing finances, operations, sales and customer service, and an opportunity to easily upgrade from entry-level accounting software and legacy ERP systems.
 
 Dynamics 365 Business Central is great value because it integrates with other Microsoft cloud services including Office 365 and can be customised or extended for specific industry needs with Power Apps, Power Automate and Power BI. 
 ([overview 3rd party](https://www.the365people.com/business-central))
@@ -69,14 +65,14 @@ Judging from its features, integrations, and user interface, Microsoft Dynamics 
 
 [TallyPrime](https://tallysolutions.com/tally-prime/) is a comprehensive ERP software solution that manages accounting, inventory, statutory compliance, and other critical business processes. It primarily serves small to medium-sized enterprises seeking value for money in managing purchase orders and financial operations.
 
-This software solution offers benefits like [automation in financial reporting](https://thecfoclub.com/financial-planning-analysis/nlg-financial-reporting/), tax management, and ensuring data integrity, which is crucial for accurate balance sheets.
+This software solution offers benefits like automation in financial reporting, tax management, and ensuring data integrity, which is crucial for accurate balance sheets.
 
-TallyPrime tackles common hassles such as complex [tax filing](https://thecfoclub.com/accounting/best-tax-conferences/), including e-way bill generation, fragmented data management, and cumbersome statutory compliance processes. Among its best features are its user-friendly interface, robust tax filing capabilities, including e-way bill integration, and flexible reporting to streamline workflow.
+TallyPrime tackles common hassles such as complex tax filing, including e-way bill generation, fragmented data management, and cumbersome statutory compliance processes. Among its best features are its user-friendly interface, robust tax filing capabilities, including e-way bill integration, and flexible reporting to streamline workflow.
 
 ## Pros
 
 - **User Experience:** Simplified navigation and intuitive shortcuts allow users, even on a single-user basis, to find functions quickly, enhancing productivity.
-- **Tax Compliance:** [Automation in tax management](https://thecfoclub.com/accounting/tax-automation/), including e-way bill processes, ensures businesses maintain statutory compliance with minimal effort.
+- **Tax Compliance:** Automation in tax management, including e-way bill processes, ensures businesses maintain statutory compliance with minimal effort.
 - **Data Integrity:** Secure data processing maintains accuracy and reliability across business processes, ensuring receivables and payables are always in check.
 
 ## Cons
