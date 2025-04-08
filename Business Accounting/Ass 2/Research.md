@@ -54,7 +54,7 @@ Low code development - Allows less experienced  developers to quickly write 'lit
 ### Expert Opinion
 
 Judging from its features, integrations, and user interface, Microsoft Dynamics 365 Business Central stands out as a competent ERP solution. It excels in providing a comprehensive, user-friendly experience but can fall short in scalability and ease of initial setup. I find it most suitable for businesses that already rely on other Microsoft products and need a reliable ERP system to unify their operations.
-
+[Expert](https://thecfoclub.com/tools/microsoft-dynamics-365-business-central-review/#:~:text=Expert%20Opinion,system%20to%20unify%20their%20operations.)
 
 
 
