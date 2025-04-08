@@ -78,7 +78,7 @@ TallyPrime tackles common hassles such as complex tax filing, including e-way b
 ## Cons
 
 - **Customization Limits:** Limited personalization options may not fully cater to businesses with unique order processing workflows.
-- **Scalability Concerns:** Larger companies may find TallyPrime less scalable compared to other [accounting software](https://thecfoclub.com/accounting/cloud-accounting-software-benefits/) designed for greater company size.
+- **Scalability Concerns:** Larger companies may find TallyPrime less scalable compared to other accounting software designed for greater company size.
 - **Support Variability:** The quality of customer support can vary, which may introduce a hassle in resolving complex issues for multi-user environments.
 
 ## Expert Opinion
@@ -91,7 +91,7 @@ TallyPrime is particularly well-suited for businesses that prioritize financial 
 
 What sets TallyPrime apart, often cited in the best accounting software lists is its commitment to simplifying complex financial tasks through a user-friendly interface. It offers a unique blend of simplicity and power, with new features, particularly in tax-related functionalities and POS integration that other tools often treat as an afterthought.
 
-Its noteworthy features, such as error detection and correction mechanisms, ensure that even [users with minimal accounting knowledge](https://thecfoclub.com/operational-finance/ai-payroll/) can maintain accurate books and comply with tax laws. This positions TallyPrime as a compelling, cost-effective choice for business owners who value ease of use and reliability, fostering business growth.
+Its noteworthy features, such as error detection and correction mechanisms, ensure that even users with minimal accounting knowledge can maintain accurate books and comply with tax laws. This positions TallyPrime as a compelling, cost-effective choice for business owners who value ease of use and reliability, fostering business growth.
 
 ### Customer Support
 
