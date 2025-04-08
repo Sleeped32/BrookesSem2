@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Business Accounting/Ass 2/Instruc.md",
+                "file": "Business Accounting/Ass 2/Research.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Instruc"
+              "title": "Research"
             }
           },
           {
@@ -69,8 +69,7 @@
               "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -225,7 +224,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b43862c479985cf4",
+  "active": "6bb0c29435c81613",
   "lastOpenFiles": [
     "Business Accounting/Ass 2/Instruc.md",
     "Business Accounting/Ass 2/ACFI4012 BAS Module Handbook 2024-25 S1.pdf",

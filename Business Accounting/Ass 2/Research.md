@@ -12,5 +12,18 @@ Evidence and data. Interviewees said deploying Business Central allowed their o
 
 
 
+# Structure 
+
+
+
+
+
+
+
+
+
+
 ###### Ref
 [Mic](https://tei.forrester.com/go/Microsoft/Dynamics365BusinessCentral/?lang=en-us)
+
+
