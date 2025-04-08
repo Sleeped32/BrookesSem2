@@ -30,8 +30,7 @@ Dynamics 365 Business Central is great value because it integrates with other Mi
 
 Highly personalisable allowing for it be adapted to the need of the user
 
-Low code development  
-
+Low code development - Allows less experienced  developers to easiliy 
 
 
 
