@@ -39,7 +39,21 @@ Highly personalisable allowing for it be adapted to the need of the user
 Low code development - Allows less experienced  developers to quickly write 'lite' business applications
 ([Makes it different](https://www.the365people.com/business-central/what-makes-bc-different))
 
+### Pros
 
+- **Integrated Solutions:** Dynamics 365 Business Central integrates seamlessly with other Microsoft products like Outlook, Excel, and Teams, enhancing productivity by connecting various business functions.
+- **Customization:** It offers extensive customization options through add-ons and Power Apps, allowing businesses to tailor the software to their unique needs.
+- **User Experience:** The platform is known for its user-friendly interface, making it easier for team members to navigate and adapt, which improves overall efficiency.
+
+### Cons
+
+- **Complex Setup:** Setting up the software can be complex, especially for businesses without a dedicated IT team.
+- **Cost for SMBS:** The pricing model can be challenging for smaller businesses, potentially affecting its affordability and accessibility.
+- **Limited Scalability:** While effective for small to medium-sized businesses, it might not scale as efficiently for larger enterprises or those with more complex needs.
+
+### Expert Opinion
+
+Judging from its features, integrations, and user interface, Microsoft Dynamics 365 Business Central stands out as a competent ERP solution. It excels in providing a comprehensive, user-friendly experience but can fall short in scalability and ease of initial setup. I find it most suitable for businesses that already rely on other Microsoft products and need a reliable ERP system to unify their operations.
 
 
 
