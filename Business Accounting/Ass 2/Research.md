@@ -19,7 +19,7 @@ Cloud-based
 ERP(Enterprise Resources planning)
 lots of integration with Microsoft ecosystem
 Targeted at SMEs(Small and Medium-sized Enterprise)
-AI 
+Microsoft Co-pilot AI
 [[business-central-capability-guide-for-publishing.pdf | Overview p.4-5]]
 
 
