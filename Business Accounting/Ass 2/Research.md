@@ -14,13 +14,15 @@ Evidence and data. Interviewees said deploying Business Central allowed their o
 
 ## Structure 
 
-#### 1
-Cloud-based
-ERP(Enterprise Resources planning)
-lots of integration with Microsoft ecosystem
-Targeted at SMEs(Small and Medium-sized Enterprise)
-Microsoft Co-pilot AI
-[[business-central-capability-guide-for-publishing.pdf | Overview p.4-5]]
+#### Compare
+
+**Microsoft:**
+- Cloud-based
+- ERP(Enterprise Resources planning)
+- lots of integration with Microsoft ecosystem
+- Targeted at SMEs(Small and Medium-sized Enterprise)
+- Microsoft Co-pilot AI
+- ([[business-central-capability-guide-for-publishing.pdf | Overview p.4-5]])
 
 
 
