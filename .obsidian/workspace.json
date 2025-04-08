@@ -25,14 +25,12 @@
             "id": "b43862c479985cf4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Foundations of Business/Soruces.md",
-                "mode": "source",
-                "source": false
+                "file": "Business Accounting/Ass 2/ACFI4012 BAS Module Handbook 2024-25 S1.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Soruces"
+              "icon": "lucide-file-text",
+              "title": "ACFI4012 BAS Module Handbook 2024-25 S1"
             }
           },
           {
@@ -71,7 +69,8 @@
               "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -226,10 +225,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6bb0c29435c81613",
+  "active": "b43862c479985cf4",
   "lastOpenFiles": [
-    "Business Accounting/Ass 2/ACFI4012 BAS Module Handbook 2024-25 S1.pdf",
+    "Foundations of Business/Soruces.md",
+    "Foundations of Business/Sample.md",
     "Business Accounting/Ass 2/Instruc.md",
+    "Business Accounting/Ass 2/ACFI4012 BAS Module Handbook 2024-25 S1.pdf",
     "Business Accounting/Ass 2/Research.md",
     "Business Accounting/Ass 2/Examples/Yellow1.pdf",
     "Business Accounting/Ass 2/Examples/Blue1.pdf",
@@ -243,8 +244,6 @@
     "Business Accounting/Untitled.md",
     "Business Accounting/Ass 2",
     "Business Accounting/Lecture Week 2.md",
-    "Foundations of Business/Soruces.md",
-    "Foundations of Business/Sample.md",
     "Untitled.md",
     "Foundations of Business/Assessment.md",
     "Pasted image 20250222172905.png",
