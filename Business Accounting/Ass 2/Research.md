@@ -5,4 +5,6 @@
 
 
 ###### Ref
-[https://tei.forrester.com/go/Microsoft/Dynamics365BusinessCentral/?lang=en-us | Mic]
+https://tei.forrester.com/go/Microsoft/Dynamics365BusinessCentral/?lang=[[]]en-us 
+
+[[https://tei.forrester.com/go/Microsoft/Dynamics365BusinessCentral/?lang=en-us|Mic]]
