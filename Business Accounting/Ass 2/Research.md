@@ -17,8 +17,8 @@ Evidence and data. Interviewees said deploying Business Central allowed their o
 #### 1
 Cloud-based
 ERP(Enterprise Resources planning)
-lots of intergration with microsoft ecosystem
-
+lots of integration with Microsoft ecosystem
+Targeted at SMEs(Small and Medium-sized Enterprise)
 
 
 
