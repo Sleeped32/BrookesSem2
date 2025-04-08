@@ -28,7 +28,7 @@ Dynamics 365 Business Central can revolutionise how you do business, taking stre
 
 Dynamics 365 Business Central is great value because it integrates with other Microsoft cloud services including Office 365 and can be customised or extended for specific industry needs with [Power Apps](https://www.thepowerpeople.com/microsoft-power-apps), [Power Automate](https://www.thepowerpeople.com/microsoft-power-automate) and [Power BI](https://www.thepowerpeople.com/microsoft-power-bi). 
 
-
+Highly personalisable 
 
 
 
