@@ -1,7 +1,7 @@
 
 # Microsoft Dynamics 365 Business Central
 
-**Analysis of Benefits:**
+**Survey:**
 
 
 
