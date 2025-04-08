@@ -9,7 +9,7 @@ Evidence and data. Interviewees said deploying Business Central allowed their o
 
 - The interviewee at the manufacturing organization spoke to efficiencies for finance staff resulting from the Dynamics 365 Business Central migration — notably, integration with online document signatures, real-time reporting and integration with CRM, online customer payments, and faster internal reimbursements.
 - A finance manager in the food and beverage importing industry said that after migrating to Dynamics 365 Business Central, their organization was able to consolidate several business units under one ERP system, which improved the productivity of supply-chain personnel by reducing the need to consolidate information across several business units operating on Microsoft Dynamics on-premises ERP solutions.
-
+##### **Ref ([Mic](https://tei.forrester.com/go/Microsoft/Dynamics365BusinessCentral/?lang=en-us))**
 
 
 ## Structure 
@@ -29,6 +29,6 @@ Targeted at SMEs(Small and Medium-sized Enterprise)
 
 
 ###### Ref
-[Mic](https://tei.forrester.com/go/Microsoft/Dynamics365BusinessCentral/?lang=en-us)
+
 
 
