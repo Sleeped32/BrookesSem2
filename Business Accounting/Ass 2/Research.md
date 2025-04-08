@@ -26,7 +26,7 @@ Evidence and data. Interviewees said deploying Business Central allowed their o
 
 Dynamics 365 Business Central can revolutionise how you do business, taking streamlining, automation and customer engagement to a new level. It gives you a single, end-to end solution for managing finances, operations, sales and customer service, and an opportunity to easily upgrade from entry-level accounting software and legacy [ERP systems](https://www.the365people.com/enterprise-resource-planning "ERP systems").
 
-Dynamics 365 Business Central is great value because it integrates with other Microsoft cloud services including Office 365 and can be customised or extended for specific industry needs with [Power Apps](https://www.thepowerpeople.com/microsoft-power-apps), [Power Automate](https://www.thepowerpeople.com/microsoft-power-automate) and [Power BI](https://www.thepowerpeople.com/microsoft-power-bi). 
+Dynamics 365 Business Central is great value because it integrates with other Microsoft cloud services including Office 365 and can be customised or extended for specific industry needs with Power Apps, Power Automate and Power BI. 
 ([overview 3rd party](https://www.the365people.com/business-central))
 
 **Hosting**
