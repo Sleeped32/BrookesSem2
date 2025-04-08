@@ -126,8 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a6071ae65a55a143",
@@ -227,6 +226,7 @@
   },
   "active": "6bb0c29435c81613",
   "lastOpenFiles": [
+    "Business Accounting/Ass 2/business-central-capability-guide-for-publishing.pdf",
     "Business Accounting/Ass 2/Instruc.md",
     "Business Accounting/Ass 2/ACFI4012 BAS Module Handbook 2024-25 S1.pdf",
     "Foundations of Business/Soruces.md",
