@@ -16,6 +16,9 @@ Evidence and data. Interviewees said deploying Business Central allowed their o
 
 #### 1
 Cloud-based
+ERP(Enterprise Resources planning)
+lots of intergration with microsoft ecosystem
+
 
 
 
