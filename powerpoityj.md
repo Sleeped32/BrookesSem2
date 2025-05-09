@@ -1,3 +1,35 @@
+## Presentation Structure:
+
+The structure of the presentation is up to you, but as a guide, a possible structure is:
+
+**Slide 0** – Introduction (title slide including your student number and word count)
+
+**Slide 1** – Content of the presentation
+
+**Slide 2** – Overview
+
+o   Business Name/Mission/Vision
+
+o   Key competitors
+
+o   Key opportunities and challenges
+
+**Slide 3 - 4** – Strategy - [[powerpoityj#hybrid strategy| hybrid strategy ]]
+
+- Proposed strategy – what/why/how it will be implemented
+
+**Side 5 - 10** – Internal Analysis of the selected business function - [[powerpoityj#**1 Marketing**| Marketing]]
+
+**Slide 11** – Conclusions
+
+- Summary of your presentation
+- Conclusions – rationale and justifications for your decisions taken for parts a and b.
+
+**Slide 12** – Reference List
+
+
+
+
 Starting bussiness 
 £22,756
 £22 per square foot
@@ -15,9 +47,8 @@ A differentiation strategy is ==a business approach where a company distinguish
  hybrid strategy - mix
  - best of both worlds 
 
-#### targeting commuters, students, and eco-conscious consumers
-**1 Marketing**
 
+##### 1 Marketing
 - Marketing mix - product, price, promotion, place, target market, green marketing
 
 Within the 4 Ps, consider:
@@ -33,6 +64,14 @@ o   What specific promotions can/should be considered? Are they realistic? How
 o   What specific/actual location/premise will the business be based at? Why? How much will it cost? Any alternatives/contingency plans?
 
 o   Who is your target market? Why? What is your evidence? How will you reach them?
-- 
+- **targeting commuters, students, and eco-conscious consumers**
 
 o   What is the meaning of green marketing? How can it be applied successfully?
+- **Eco bullshit**
+
+
+
+##### hybrid strategy 
+- Have options for both high end premier bikes as well as tailoring to students and money concerns people with affordable options 
+- Premim options for commuters and wealthy eco people
+- Affordable options for students 
