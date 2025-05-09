@@ -20,6 +20,7 @@ o   *Key opportunities and challenges*
 **Slide 3 - 4** – Strategy - [[powerpoityj#hybrid strategy| hybrid strategy ]]
 
 - Proposed strategy – what/why/how it will be implemented
+- targets largest amount of people types
 
 **Side 5 - 10** – Internal Analysis of the selected business function - [[powerpoityj#**1 Marketing**| Marketing]]
 
