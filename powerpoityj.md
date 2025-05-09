@@ -9,10 +9,13 @@ The structure of the presentation is up to you, but as a guide, a possible struc
 **Slide 2** – Overview
 
 o   Business Name/Mission/Vision
-
+- Mission: Reliable, eco-conscious cycle services
+- Vision: Local leader in premium repairs & sales with affordable options as well
 o   Key competitors
 
 o   Key opportunities and challenges
+- Cycling trends, green transport incentives
+- Cost of living crisis 
 
 **Slide 3 - 4** – Strategy - [[powerpoityj#hybrid strategy| hybrid strategy ]]
 
