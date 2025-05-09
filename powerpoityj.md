@@ -87,5 +87,5 @@ o   What is the meaning of green marketing? How can it be applied successfully
 ### Minited
 
 With [80% of women viewing ==cycling== as a good way to reduce emissions](https://clients.mintel.com/content/report/cycling-uk-2024?fromSearch=%3Ffreetext%3Dcycling%26last_filter%3Dcategory%26resultPosition%3D1#workspace_SpacesStore_71003c87-7fbd-4d23-b1f4-c7e8e59a4387), promoting e-bikes as part of an environmentally conscious lifestyle can resonate with women who prioritise sustainability.
+![[Pasted image 20250509182624.png]]
 
-With [80% of women viewing ==cycling== as a good way to reduce emissions](https://clients.mintel.com/content/report/cycling-uk-2024?fromSearch=%3Ffreetext%3Dcycling%26last_filter%3Dcategory%26resultPosition%3D1#workspace_SpacesStore_71003c87-7fbd-4d23-b1f4-c7e8e59a4387), promoting e-bikes as part of an environmentally conscious lifestyle can resonate with women who prioritise sustainability.
