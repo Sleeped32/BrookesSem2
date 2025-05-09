@@ -12,7 +12,8 @@ o   *Business Name/Mission/Vision*
 - Mission: Reliable, eco-conscious cycle services
 - Vision: Local leader in premium repairs & sales with affordable options as well
 o   *Key competitors*
-
+- Cycle king oxford
+- beeline bicycles
 o   *Key opportunities and challenges*
 - Cycling trends, green transport incentives
 - Cost of living crisis 
