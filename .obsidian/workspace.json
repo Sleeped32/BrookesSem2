@@ -79,12 +79,14 @@
             "id": "ef7595295a56baed",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Blue1 (1).pdf"
+                "file": "Business Accounting/Ass 2/Research.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Blue1 (1)"
+              "icon": "lucide-file",
+              "title": "Research"
             }
           },
           {
@@ -279,13 +281,13 @@
   },
   "active": "ef7595295a56baed",
   "lastOpenFiles": [
+    "Blue1 (1).pdf",
     "Examined Modules.md",
     "Green1 (1).pdf",
     "Business Accounting/Ass 2/business-central-capability-guide-for-publishing.pdf",
     "Business Accounting/Ass 2/First.md",
     "Business Accounting/Ass 2/Instruc.md",
     "Business Accounting/Ass 2/Research.md",
-    "Blue1 (1).pdf",
     "Untitled 2.md",
     "Untitled 1.md",
     "powerpoityj.md",
