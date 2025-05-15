@@ -79,14 +79,12 @@
             "id": "ef7595295a56baed",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Business Accounting/Ass 2/First.md",
-                "mode": "source",
-                "source": false
+                "file": "Blue1 (1).pdf"
               },
-              "icon": "lucide-file",
-              "title": "First"
+              "icon": "lucide-file-text",
+              "title": "Blue1 (1)"
             }
           },
           {
@@ -279,15 +277,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "124d599670f9de0e",
+  "active": "ef7595295a56baed",
   "lastOpenFiles": [
+    "Examined Modules.md",
+    "Green1 (1).pdf",
+    "Business Accounting/Ass 2/business-central-capability-guide-for-publishing.pdf",
+    "Business Accounting/Ass 2/First.md",
     "Business Accounting/Ass 2/Instruc.md",
     "Business Accounting/Ass 2/Research.md",
     "Blue1 (1).pdf",
-    "Green1 (1).pdf",
     "Untitled 2.md",
-    "Business Accounting/Ass 2/First.md",
-    "Business Accounting/Ass 2/business-central-capability-guide-for-publishing.pdf",
     "Untitled 1.md",
     "powerpoityj.md",
     "Pasted image 20250509182624.png",
@@ -312,7 +311,6 @@
     "Introduction to Accounting 2/Formulae.md",
     "Introduction to Accounting 2/Week 2 HomeWork.md",
     "Introduction to Accounting 2/Week 1 homework.md",
-    "Examined Modules.md",
     "Exploring Economics/Seminar Week 2.md",
     "Exploring Economics/Lecture Week 1.md",
     "Untitled.canvas",
