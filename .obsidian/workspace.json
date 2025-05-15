@@ -79,12 +79,14 @@
             "id": "ef7595295a56baed",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Blue1 (1).pdf"
+                "file": "Business Accounting/Ass 2/First.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Blue1 (1)"
+              "icon": "lucide-file",
+              "title": "First"
             }
           },
           {
@@ -277,14 +279,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ef7595295a56baed",
+  "active": "124d599670f9de0e",
   "lastOpenFiles": [
-    "Green1 (1).pdf",
-    "Blue1 (1).pdf",
+    "Business Accounting/Ass 2/Instruc.md",
     "Business Accounting/Ass 2/Research.md",
+    "Blue1 (1).pdf",
+    "Green1 (1).pdf",
     "Untitled 2.md",
     "Business Accounting/Ass 2/First.md",
-    "Business Accounting/Ass 2/Instruc.md",
     "Business Accounting/Ass 2/business-central-capability-guide-for-publishing.pdf",
     "Untitled 1.md",
     "powerpoityj.md",
@@ -298,7 +300,6 @@
     "Business Accounting/Ass 2/Examples/Orange1.pdf",
     "Business Accounting/Ass 2/Examples/Pink1.pdf",
     "Business Accounting/Ass 2/Examples/Red1.pdf",
-    "Business Accounting/Ass 2/Examples",
     "Pasted image 20250408141849.png",
     "Business Accounting/Group Work.md",
     "Business Accounting/Untitled.md",
