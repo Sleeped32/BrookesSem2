@@ -81,10 +81,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Green1 (1).pdf"
+                "file": "Blue1 (1).pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Green1 (1)"
+              "title": "Blue1 (1)"
             }
           },
           {
@@ -279,9 +279,10 @@
   },
   "active": "ef7595295a56baed",
   "lastOpenFiles": [
+    "Green1 (1).pdf",
+    "Blue1 (1).pdf",
     "Business Accounting/Ass 2/Research.md",
     "Untitled 2.md",
-    "Green1 (1).pdf",
     "Business Accounting/Ass 2/First.md",
     "Business Accounting/Ass 2/Instruc.md",
     "Business Accounting/Ass 2/business-central-capability-guide-for-publishing.pdf",
