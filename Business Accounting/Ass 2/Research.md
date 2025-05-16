@@ -104,3 +104,7 @@ Navigating TallyPrime is straightforward, with a clean interface and logically o
 ### Integrations
 
 TallyPrime offers several out-of-the-box integrations with banking and payment services. It also provides an API that developers can use to build custom integrations. Add-ons are available through Tally's extensive partner network, extending the platform's capabilities in areas like advanced analytics, customer relationship management, and more.
+
+
+
+During the seminars and workshops, I had hands-on experience using both Sage Accounts and Xero, which allowed me to directly compare their usability, features, and overall performance. Starting with Sage Accounts, I found the interface somewhat outdated and less intuitive. Navigating through the various modules such as Sales, Purchases, and Bank Reconciliation often required multiple clicks and sometimes felt unnecessarily complex, particularly for someone new to accounting software. However, Sage offered robust reporting tools and a strong emphasis on compliance features, which seemed more suited to traditional accounting workflows. On the other hand, Xero provided a much cleaner, modern interface and was easier to navigate overall. Tasks such as entering transactions, reconciling bank statements, and generating reports were more straightforward and visually accessible in Xero. It felt more user-friendly and responsive, especially when working with cloud-based features in real time.
